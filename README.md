@@ -60,6 +60,7 @@ License
  [7]: https://travis-ci.org/JakeWharton/ActionBarSherlock
  
  
- 使用方法
- ========
+使用方法
+========
+
  http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1126/631.html
