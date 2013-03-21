@@ -58,3 +58,8 @@ License
  [5]: https://play.google.com/store/apps/details?id=com.actionbarsherlock.sample.fragments
  [6]: https://play.google.com/store/apps/details?id=com.actionbarsherlock.sample.roboguice
  [7]: https://travis-ci.org/JakeWharton/ActionBarSherlock
+ 
+ 
+ 
+ ========
+ http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2012/1126/631.html
